@@ -1,0 +1,11 @@
+/Users/ianpowell/Projects/Week18/Week18/bin/Debug/netcoreapp2.0/Week18.deps.json
+/Users/ianpowell/Projects/Week18/Week18/bin/Debug/netcoreapp2.0/Week18.runtimeconfig.json
+/Users/ianpowell/Projects/Week18/Week18/bin/Debug/netcoreapp2.0/Week18.runtimeconfig.dev.json
+/Users/ianpowell/Projects/Week18/Week18/bin/Debug/netcoreapp2.0/Week18.dll
+/Users/ianpowell/Projects/Week18/Week18/bin/Debug/netcoreapp2.0/Week18.pdb
+/Users/ianpowell/Projects/Week18/Week18/obj/Debug/netcoreapp2.0/Week18.csprojResolveAssemblyReference.cache
+/Users/ianpowell/Projects/Week18/Week18/obj/Debug/netcoreapp2.0/Week18.csproj.CoreCompileInputs.cache
+/Users/ianpowell/Projects/Week18/Week18/obj/Debug/netcoreapp2.0/Week18.AssemblyInfoInputs.cache
+/Users/ianpowell/Projects/Week18/Week18/obj/Debug/netcoreapp2.0/Week18.AssemblyInfo.cs
+/Users/ianpowell/Projects/Week18/Week18/obj/Debug/netcoreapp2.0/Week18.dll
+/Users/ianpowell/Projects/Week18/Week18/obj/Debug/netcoreapp2.0/Week18.pdb
